@@ -13,23 +13,21 @@ Blind Assistant is an android application for blind or visually impaired people.
 
 |Activity|Command lines|
 |:-------------:|:------------:|
-|Time|Time/সময়|                                   
-|Date|date/তারিখ|                                  
-|Location|location/অবস্থান|
-|Battery Level|Phone Charge/ফোনের চার্জ|
-|Weather|weather/temperature/আবহাওয়া|
+|Time|Time|                                   
+|Date|date|                                  
+|Location|location|
+|Battery Level|Phone Charge|
+|Weather|weather/temperature|
 |Dictionary|Bangla to English/English to Bangla|
-|Object Detection|environment/পরিবেশ|
-|Money Recognition|money/টাকা|
-|Face Recognition|Identity/পরিচিতি(for training face), Environment/পরিবেশ (for recognize faces)|
+|Object Detection|environment|
+|Money Recognition|money|
+|Face Recognition|Identity(for training face), Environment(for recognize faces)|
 |Text Messages|Text/Message/SMS|
-|News|News/খবর|
-|Command Lines|Command line/নির্দেশনা|
+|News|News|
+|Command Lines|Command line|
 |About|About|
 |Exit app|Exit/Close|
 
-### Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/Z4lTI1dJPIc)](https://www.youtube.com/watch?v=Z4lTI1dJPIc)
 
 
 
